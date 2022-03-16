@@ -5,6 +5,6 @@ git clone https://github.com/PoHackerDark/callHee/
 
 cd callHee
 
-python callHee.py
+python call.py
 
 
